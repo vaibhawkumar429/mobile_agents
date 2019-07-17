@@ -1,0 +1,3 @@
+Read=gps_local;speed_local:40
+Send=speed_local;map_local
+Instant=
